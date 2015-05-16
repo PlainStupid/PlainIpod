@@ -1,8 +1,11 @@
 ## Install
 -------------
 ``virtualenv env``
+
 ``source env/bin/activate``
+
 ``pip install stagger``
+
 
 If you get error when installing stagger try
 pip install git+https://github.com/asgeir/stagger#egg=stagger
