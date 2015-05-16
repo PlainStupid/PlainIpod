@@ -8,7 +8,8 @@
 
 
 If you get error when installing stagger try
-pip install git+https://github.com/asgeir/stagger#egg=stagger
+
+``pip install git+https://github.com/asgeir/stagger#egg=stagger``
 
 
 ## Run
